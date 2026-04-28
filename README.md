@@ -18,7 +18,7 @@ Bu projenin temel amacı, karmaşık film veri tabanlarından gelen ham verileri
 Projeyi yerel bilgisayarınızda test etmek için:
 
 1. Depoyu klonlayın:
-   `git clone [GITHUB_REPO_LINKINIZ]`
+   `git clone [https://github.com/Furkan3663/Kocsistem-NewChapter-Film-Analist.git]`
 2. Gerekli kütüphaneyi yükleyin:
    `pip install requests`
 3. Uygulamayı başlatın:
