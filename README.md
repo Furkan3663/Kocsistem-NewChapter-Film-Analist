@@ -20,7 +20,7 @@ Projeyi yerel bilgisayarınızda test etmek için:
 1. Depoyu klonlayın:
    `git clone [https://github.com/Furkan3663/Kocsistem-NewChapter-Film-Analist.git]`
 2. Gerekli kütüphaneyi yükleyin:
-   ## Kodu yaparken PyCharm editörünü kullandım kütüphane hata verirse cmd'den kurun kütüphaneyi yine olmazsa PyCharm içindeki terminalden kurun
+   Kodu yaparken PyCharm editörünü kullandım kütüphane hata verirse cmd'den kurun kütüphaneyi yine olmazsa PyCharm içindeki terminalden kurun
    `pip install requests`
 4. Uygulamayı başlatın:
    `python main.py`
