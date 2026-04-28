@@ -27,4 +27,5 @@ Projeyi yerel bilgisayarınızda test etmek için:
 
 ---
 **Geliştirici:** [Furkan Arslan]  
+**Email:**[furkanars.4736@gmail.com]
 **Tarih:** 28 Nisan 2026
